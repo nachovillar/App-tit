@@ -1,0 +1,25 @@
+
+.navBarHome{
+    background-color:transparent;
+
+}
+
+A:link {
+    text-decoration: none;
+    padding: 6px;
+    margin-top: -5px; 
+    float: none;
+      display: inline-block;
+    
+}
+A:hover { 
+    color: white; 
+    font-family: arial;
+    text-decoration: none 
+    
+}
+A:visited {color:white;  
+    font-family: arial; 
+    text-decoration: none 
+    
+}

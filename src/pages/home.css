@@ -1,0 +1,30 @@
+body {
+    background-image: url('../media/bg.jpg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    
+}
+
+.barraBusqueda{
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle;
+}
+.search{
+    margin-top: -3px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle;
+}
+
+.logo{
+    text-align: center !important;
+    margin-top: -35px;
+    
+}
+
+.NavBarHome{
+    filter: opacity(60%)
+}

@@ -1,0 +1,9 @@
+.cuerpo{
+    color: black;
+    border-radius: 25px;
+    background:white;
+    padding: 20px; 
+    margin:center;
+
+    filter: opacity(100%);
+}
